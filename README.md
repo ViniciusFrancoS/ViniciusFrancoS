@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius Franco 👋
+# Olá, eu sou o Vinicius Franco 👋 <!-- Profile README: TaskForge -->
 
 > **Desenvolvedor Full-Stack focado em criar soluções de alto impacto que transformam a produtividade humana.**
 
