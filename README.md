@@ -28,14 +28,18 @@
 
 Desenvolvedor focado em criar interfaces premium e backends robustos. Atualmente focado em **Agentes de IA** e **Gamificação de Produtividade**. Busco sempre o equilíbrio entre design impecável e código escalável.
 
-```typescript
-const vinicius = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "React", "Node.js"],
-  tools: ["Supabase", "PostgreSQL", "Framer Motion", "Vite"],
-  currentProject: "TaskForge AI",
-  goal: "Transformar grandes intenções em pequenos passos acionáveis",
-  location: "Brasil"
+```tsx
+const ViniciusFranco = () => {
+  const stack = ["React", "TypeScript", "Node.js", "PostgreSQL"];
+  const mission = "Transformar grandes intenções em pequenos passos acionáveis";
+
+  return (
+    <Developer 
+      status="Building TaskForge AI" 
+      focus="UX & AI Integration"
+      location="Recife, Brasil"
+    />
+  );
 };
 ```
 
@@ -57,7 +61,6 @@ const vinicius = {
       <strong>Backend & Database</strong><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -83,7 +86,7 @@ const vinicius = {
 
 #### ⚡ [TaskForge AI](https://github.com/ViniciusFrancoS/Task)
 Sistema de produtividade que utiliza IA para quebrar a inércia. Gamificação completa com XP, Níveis e Streaks.
-- **Tech Stack**: React, Node.js, Supabase, Gemini API, Framer Motion.
+- **Tech Stack**: React, Node.js, PostgreSQL, Gemini API, Framer Motion.
 
 #### 🔗 [Consulta CEP](https://github.com/ViniciusFrancoS/Consulta-Cep)
 Aplicação web para busca rápida de endereços via API pública.
