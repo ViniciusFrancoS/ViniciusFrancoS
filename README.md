@@ -1,4 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius Franco</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vinicius%20Franco&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <p align="center">
   <strong>Full-Stack Developer | UX Enthusiast | AI Integrator</strong>
 </p>
@@ -88,12 +91,14 @@ Aplicação web para busca rápida de endereços via API pública.
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFrancoS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusFrancoS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFrancoS&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ViniciusFrancoS/ViniciusFrancoS/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <p align="center">
