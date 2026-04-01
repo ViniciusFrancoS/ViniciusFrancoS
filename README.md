@@ -26,7 +26,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor focado em criar interfaces premium e backends robustos. Atualmente focado em **Agentes de IA** e **Gamificação de Produtividade**. Busco sempre o equilíbrio entre design impecável e código escalável.
+Desenvolvedor focado em criar interfaces premium e backends robustos. Atualmente focado em **Desenvolvimento Web** e **Gamificação de Produtividade**. Busco sempre o equilíbrio entre design impecável e código escalável.
 
 ```tsx
 const ViniciusFranco = () => {
