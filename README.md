@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/viniciusfrancos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://viniciusfranco1718.github.io" target="_blank">
+  <a href="https://portifolio-orcin-seven-27.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:viniciusfranco1718@gmail.com" target="_blank">
